@@ -1,0 +1,8 @@
+{
+  "name": "vobelstore.ru",
+  "scripts": {},
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "addons": []
+}
